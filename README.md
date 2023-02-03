@@ -1,3 +1,3 @@
-# CS-4563-ML-Project
+# Pawpularity
 
 Please refer to the Report for information.
